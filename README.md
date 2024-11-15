@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **c# laravel y php**
 
-- 💬 Ask me about **javascript, typescript, react, redux, express,**
+- 💬 Ask me about **javascript, typescript, react, redux, express, java**
 
 - 📫 How to reach me **brigittebedo@hotmail.com**
 
